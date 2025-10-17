@@ -17,5 +17,5 @@ export default defineConfig(({ mode }) => ({
   },
 
   // 👇 Importante para o GitHub Pages
-  base: "/",
+  base: "/shelter-stories-spark/",
 }));
